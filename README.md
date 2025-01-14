@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vladyslav</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">𝙎𝙩𝙪𝙙𝙚𝙣𝙩 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙖𝙩 𝘼𝙛𝙚𝙠𝙖 𝘾𝙤𝙡𝙡𝙚𝙜𝙚</h2>
+<h2 align="center">Backend Engineer at Wix</h2>
 <h3 align="left">Languages and Tools:</h3>
 <p>
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="JAVA" width="50" height="50">
